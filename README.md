@@ -1,3 +1,9 @@
+##Environment
+Analysis completed on:  
+R version 3.1.2 (2014-10-31) using R Studio Version 0.98.1056  
+Platform: x86_64-w64-mingw32/x64 (64-bit)  
+Operating System: Windows 7 Home  
+
 ## Introduction
 
 It is now possible to collect a large amount of data about personal
