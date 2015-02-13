@@ -17,10 +17,11 @@ library(lubridate)
 library(ggplot2)
 ```
 
-Loads dataset
+Unzips and loads dataset
 
 
 ```r
+unzip("activity.zip")
 activity<-read.csv("activity.csv")
 ```
 

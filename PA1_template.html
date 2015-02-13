@@ -210,9 +210,10 @@ library(lubridate)
 library(ggplot2)
 </code></pre>
 
-<p>Loads dataset</p>
+<p>Unzips and loads dataset</p>
 
-<pre><code class="r">activity&lt;-read.csv(&quot;activity.csv&quot;)
+<pre><code class="r">unzip(&quot;activity.zip&quot;)
+activity&lt;-read.csv(&quot;activity.csv&quot;)
 </code></pre>
 
 <h2>What is mean total number of steps taken per day?</h2>
